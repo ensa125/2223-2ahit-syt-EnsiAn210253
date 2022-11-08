@@ -1,6 +1,6 @@
 # My First Personal Git Repo
 
-We can create 6 different types of headings!
+**We can create 6 different types of headings!**
 
 ## Heading 2
 
