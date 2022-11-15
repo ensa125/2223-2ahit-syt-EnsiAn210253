@@ -6,7 +6,7 @@
 - Topics:
     - [git / github](https://github.com/litec-hasp/git-intro)
     - [markdown](./00-git-markdown/markdown-overview.md)
-    - windows
+    - windows 10 and 11
     - linux / unix
     - virtual machines
     - ...
