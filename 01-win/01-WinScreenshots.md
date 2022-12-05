@@ -28,11 +28,11 @@
 
 ## 2. Speicherplatz `C:`
 
-- 267 GB frei
+![](_img/2022-12-05-19-02-32-image.png)
 
 ## 3. Dateisystem `C:`
 
-- Dateisystem: NTFS
+![](_img/2022-12-05-19-03-45-image.png)
 
 ## 4. Zugriffsrecht des `C:\Windows`
 
@@ -44,51 +44,45 @@
 
 ## 5. `Temp`-Ordner auf dem `C:`-Laufwerk
 
-- Temp, TempStates, Templates, templates, TemplateDefaults, TempPatch, LayoutTemplates, world_templates, templates_slideshow, uri-templates, TemplateEngineHost, DesignerTemplates, TemplateEngine, TextTemplate, TempPE, StandardTemplates, Templats.2, temp_cache2
+- Temp, TempStates, Templates, templates, TemplateDefaults, TempPatch, templates_slideshow, TemplateEngineHost, TemplateEngine, TempPE, Templats.2, temp_cache2
+- LayoutTemplates, world_templates, uri-templates, DesignerTemplates, TextTemplate, PULL_REQUEST_TEMPLATE, StandardTemplate
 
 ## 6. Grafikkartentreiber
 
-- Treiber: Intel Corporation
+![](_img/2022-12-05-19-24-03-image.png)
 
 ## 7. Task-Manager: Speicherverbrauch und Ethernet Troughput ansehen
 
+![](_img/2022-12-05-19-25-52-image.png)
+
 ## 8. Taskmanager: Startup-Programme ansehen
+
+<img title="" src="_img/2022-12-05-19-30-47-image.png" alt="" width="303">
 
 ## 9. Diskmanagement: Partitionen der Laufwerke ansehen
 
-## 10. Einstellungen: unter Info Device und Windows Spezifiaktionen ansehen
+<img src="_img/2022-12-05-19-35-01-image.png" title="" alt="" width="496">
+
+## 10. Einstellungen: unter Info, Device und Windows Spezifiaktionen ansehen
+
+<img src="_img/2022-12-05-19-36-48-image.png" title="" alt="" width="410">
 
 ## 11. Einstellungen: Netzbetrieb und Energiesparmodus Settings ansehen
 
+<img src="_img/2022-12-05-19-38-07-image.png" title="" alt="" width="317">
+
 ## 12. Computer Management: Task Schedule öffnen und die Tasks ansehen
+
+<img src="_img/2022-12-05-19-40-10-image.png" title="" alt="" width="489">
 
 ## 13. Einstellungen: Bildschirm Settings nachsehen ob die Textgröße skaliert ist
 
+<img src="_img/2022-12-05-19-40-52-image.png" title="" alt="" width="315">
+
 ## 14. Terminal: alle Daten/Verzeichnisse auflisten
 
-- Befehl: `ls`
+<img title="" src="_img/2022-12-05-19-43-15-image.png" alt="" width="304">
 
 ## 15. Terminal: alle mit Winget installierten Programme auflisten
 
-- Befehl: `winget list`
-
-1) Finde das Windows Tastenkürzel für Screenshots heraus. Mache eine Screenshot von der Überschrift dieses Dokuments. Schreibe in deinem Dokument das Tastenkürzel für Screenshots auf.
-2) Stelle fest wieviel Speicherplatz Du noch auf `C:` frei hast. 
-3) Finde heraus welches Dateisystem (File System) das Laufwerk `C:` hat.
-4) Sieh Dir die Zugriffsrechte des `C:\Windows` Folders an - wer darf mit diesem Ordner wie arbeiten (Kontext-Menü -> Eigenschaften/Properties)
-5) Suche alle `Temp`-Ordner  auf dem `C:`-Laufwerk
-6) Öffne den Device Manager und finde  heraus welche Grafikkarten-Treiber (Display Adapters) Du installiert hast. 
-   1) Versuche den Treiber zu aktualisieren.
-7) Sieh  Dir im Task-Manager unter Performance folgendes an:
-   1) den Speicherverbrauch 
-   2) Ethernet Troughput
-8) Sieh  Dir im Task-Manager die Startup Programme an. Deaktiviere ggf. Startup-Programme die nicht benötigt werden.
-9) Öffne das Diskmanagment und Sie dir die Partitionen deiner Laufwerke an.
-10) Finde unter Settings die genauen Device und Windows Spezifikationen (Hinweis: unter "About").
-11) Sieh dir die Power & Sleep Settings an.
-12) Öffne z.B. unter Computer Management den Task Scheduler und sieh dir die immer wieder laufenden Tasks an.
-13) Finde unter den Display Settings heraus, ob deine Schriftgröße skaliert ist.
-14) Öffne Terminal oder eine andere CLI und liste alle Dateien/Verzeichnisse in deinem Home-Verzeichnis auf.
-15) Verwende den Terminal (oder andre CLI) um alle mit Winget installierten Programme aufzulisten.
-
-> Ist alles erledigt, dann öffne MS Teams und das passende Assignment, gib den Link zum github repo mit deiner Abgabe an. Nur den LINK zu der Datei!
+<img src="_img/2022-12-05-19-45-02-image.png" title="" alt="" width="482">
