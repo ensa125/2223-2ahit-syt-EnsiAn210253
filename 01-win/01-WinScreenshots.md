@@ -6,6 +6,7 @@
 - `Win+I` ... Windows Settings
 - `Strg+Shift+Esc` ... Taskmanager
 - `Win+Shift+S` ... Screenshot
+- `Win+R` ... Erweiterte Suche auf dem PC
 - `Strg+C` ... Copy Text
 - `Strg+V` ... Paste Text
 - `Strg+X` ... Cut Out Text
@@ -13,13 +14,14 @@
 - `Strg+Win+D` ... Neuer Desktop
 - `Strg+Win+<-/->` ... Zwischen Desktops wechseln
 - `Strg+Win+F4` ... Aktuellen Desktop löschen
+- `Strg+Shift+Win+Alt` ... Office App öffnen
 - `Win+Tab` ... Zwischen offene Programme und Desktops wechseln
 - `Alt+F4` ... Aktuelles Programm schließen oder Windows herunterfahren
 - `Alt+Tab` ... Zwischen offene Programme wechseln  
 - `Strg+T` ... im Browser einen neuen Tab öffnen
 - `Strg+W` ... im Browser aktuellen Tab löschen
-- `Strg+Tab` ... im Browser zwischen den Tabs nacch rechts wechseln 
-- `Strg+Shift+Tab` ... im Browser zwischen den Tabs nacch links wechseln
+- `Strg+Tab` ... im Browser zwischen den Tabs nach rechts wechseln 
+- `Strg+Shift+Tab` ... im Browser zwischen den Tabs nach links wechseln
 - ...
 
 ## 1. Screenshot - Title
@@ -36,16 +38,21 @@
 
 ## 4. Zugriffsrecht des `C:\Windows`
 
-- Ersteller-Besitzer: hat "Spezielle Rechte"
-- System: hat "Spezielle Rechte"
-- Administrator: hat "Spezielle Rechte"
-- Benutzer: Ausführen, Ordnerinhalt anzeigen, Lesen
-- TrustedInstaller: Ordnerinhalt anzeigen
+<img src="_img/2022-12-12-20-46-37-image.png" title="" alt="" width="247"><img title="" src="_img/2022-12-12-20-47-15-image.png" alt="" width="236"><img title="" src="_img/2022-12-12-20-48-02-image.png" alt="" width="239"><img src="_img/2022-12-12-20-48-55-image.png" title="" alt="" width="240">
 
 ## 5. `Temp`-Ordner auf dem `C:`-Laufwerk
 
-- Temp, TempStates, Templates, templates, TemplateDefaults, TempPatch, templates_slideshow, TemplateEngineHost, TemplateEngine, TempPE, Templats.2, temp_cache2
-- LayoutTemplates, world_templates, uri-templates, DesignerTemplates, TextTemplate, PULL_REQUEST_TEMPLATE, StandardTemplate
+![](_img/2022-12-12-21-11-06-image.png)
+
+![](_img/2022-12-12-21-11-38-image.png)
+
+![](_img/2022-12-12-21-12-25-image.png)
+
+![](_img/2022-12-12-21-12-44-image.png)
+
+![](_img/2022-12-12-21-13-06-image.png)
+
+
 
 ## 6. Grafikkartentreiber
 
