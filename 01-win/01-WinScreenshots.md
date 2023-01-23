@@ -52,8 +52,6 @@
 
 ![](_img/2022-12-12-21-13-06-image.png)
 
-
-
 ## 6. Grafikkartentreiber
 
 ![](_img/2022-12-05-19-24-03-image.png)
